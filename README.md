@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aartiruhil
-- 🌱 I’m currently learning C++ and python.
+- 🌱 I’m currently learning Machine Learning, Data Analysis and Visualisation
 - 📫 How to reach me aarti2001ruhil@gmail.com
 
 <!---
